@@ -24,7 +24,6 @@ for (let i = startRank; i <= endRank; i++) {
   }
 
   if (i > 1 && primeNumber == true) {
-   
     console.log(i);
   }
 }
